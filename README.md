@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @lstaborda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I’m Leticia Taborda (@lstaborda)
 
-<!---
-lstaborda/lstaborda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning React
+
+
+<div align="center">
+  <a href="https://github.com/lstaborda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lstaborda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstaborda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
