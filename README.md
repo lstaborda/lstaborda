@@ -1,7 +1,7 @@
 👋 Hello, I’m Leticia Taborda (@lstaborda)
 
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Front-end and Back-end NodeJS
+- 🌱 I’m currently learning ReactJS and NextJS
 
 
 <div align="center">
